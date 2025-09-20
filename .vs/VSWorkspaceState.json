@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Core",
+    "\\Core\\MathCore",
+    "\\Core\\MathCore\\MCore",
+    "\\Core\\MathCore\\MCore\\MCore",
+    "\\Core\\PhysicCore",
+    "\\Core\\PhysicCore\\PCore",
+    "\\Core\\PhysicCore\\PCore\\PCore",
+    "\\Core\\VisualCore",
+    "\\Core\\VisualCore\\VCore",
+    "\\Core\\VisualCore\\VCore\\VCore"
+  ],
+  "SelectedNode": "\\Core\\VisualCore\\VCore\\VCore\\main.cpp",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\nout_student4\Documents\GitHub\My-projects\MEngine\Core\MathCore\MCore\MCore\main.cpp(14,13): error C2664: "int *ArrInv(int [],int)": невозможно преобразовать аргумент 1 из "int" в "int []"
+C:\Users\nout_student4\Documents\GitHub\My-projects\MEngine\Core\MathCore\MCore\MCore\main.cpp(14,20): message : Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+C:\Users\nout_student4\Documents\GitHub\My-projects\MEngine\Core\MathCore\MCore\MCore\main.cpp(6,6): message : см. объявление "ArrInv"
+C:\Users\nout_student4\Documents\GitHub\My-projects\MEngine\Core\MathCore\MCore\MCore\main.cpp(14,13): message : при попытке сопоставить список аргументов "(int, int)"
