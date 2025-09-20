@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0415\u043B\u0435\u043D\u0430\\Documents\\GitHub\\MEngine\\Core\\MathCore\\MCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A99B0852-1241-4FC3-8342-8DA36EEE8498}|MCore\\MCore.vcxproj|C:\\Users\\\u0415\u043B\u0435\u043D\u0430\\Documents\\GitHub\\MEngine\\Core\\MathCore\\MCore\\MCore\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A99B0852-1241-4FC3-8342-8DA36EEE8498}|MCore\\MCore.vcxproj|solutionrelative:MCore\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043B\u0435\u043D\u0430\\Documents\\GitHub\\MEngine\\Core\\MathCore\\MCore\\MCore\\main.cpp",
+              "RelativeDocumentMoniker": "MCore\\main.cpp",
+              "ToolTip": "C:\\Users\\\u0415\u043B\u0435\u043D\u0430\\Documents\\GitHub\\MEngine\\Core\\MathCore\\MCore\\MCore\\main.cpp",
+              "RelativeToolTip": "MCore\\main.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-20T17:50:58.349Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -12,6 +12,6 @@
     "\\Core\\VisualCore\\VCore",
     "\\Core\\VisualCore\\VCore\\VCore"
   ],
-  "SelectedNode": "\\Core\\VisualCore\\VCore\\VCore\\main.cpp",
+  "SelectedNode": "\\Core\\MathCore\\MCore\\MCore\\main.cpp",
   "PreviewInSolutionExplorer": false
 }
