@@ -1,7 +1,8 @@
 #include <iostream>
-
+#include <string>
 using namespace std;
 
+static int DataStack[2048];
 //Array Invertor
 int* ArrInv(int numberArr[], int size) {
 	for (int num = 0;num < size;num++)
@@ -122,6 +123,7 @@ int* ASBS(int arrToSort[], int size) {
 		if (!swaped)
 			break;
 	}
+	return arrToSort;
 }
 
 //Arrray Sort Bubble From Big
@@ -140,12 +142,63 @@ int* ASBB(int arrToSort[], int size) {
 	}
 	return arrToSort;
 }
+//Array Sort Insertion From Big
+int* ASIB(int arrToSort[], int size) {
+	if (size < 2) 
+		return arrToSort;
+	for (int i = 2; i < size; i++) {
+	}
+	return arrToSort;
+}
+//Array Sort Insertion From Sort
+int* ASIS(int arrToSort[], int size) {
+	if (size < 2)
+		return arrToSort;
+	for (int i = 2; i < size; i++) {
+	}
+	return arrToSort;
+}
+//Array Fast Sort From Big
+int* ASFB(int arrToSort[], int size) {
+	if (size < 2)
+		return arrToSort;
+	for (int i = 2; i < size; i++) {
+	}
+	return arrToSort;
+}
+//Array Fast Sort From Small
+int* ASFS(int arrToSort[], int size) {
+	if (size < 2)
+		return arrToSort;
+	for (int i = 2; i < size; i++) {
+	}
+	return arrToSort;
+}
+//Array Sort Merge From Big
+int* ASMB(int arrToSort[], int size) {
+	if (size < 2)
+		return arrToSort;
+	for (int i = 2; i < size; i++) {
+	}
+	return arrToSort;
+}
+//Array Sort Merge From Small
+int* ASMS(int arrToSort[], int size) {
+	if (size < 2)
+		return arrToSort;
+	for (int i = 2; i < size; i++) {
+	}
+	return arrToSort;
+}
+//Add number to Data Stack 
+void ANDS(int number, int index) {
+	DataStack[index] = number;
+}
+//Get Number from Data Stack
+int GNDS(int index) {
+	return DataStack[index];
+}
 
 int main() {
-	int* _int = DWF(10, 3);
-	for (int b = 0; b < 3; b++) {
-		cout << _int[b];
-		cout << "\n";
-	}
 	return 0;
 }

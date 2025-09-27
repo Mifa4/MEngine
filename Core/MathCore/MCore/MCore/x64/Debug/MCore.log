@@ -1,5 +1,5 @@
 ﻿  main.cpp
-C:\Users\Елена\Documents\GitHub\MEngine\Core\MathCore\MCore\MCore\main.cpp(61,1): warning C4172: возвращаемый адрес локальной переменной или временного : res
-C:\Users\Елена\Documents\GitHub\MEngine\Core\MathCore\MCore\MCore\main.cpp(68,1): warning C4172: возвращаемый адрес локальной переменной или временного : res
-C:\Users\Елена\Documents\GitHub\MEngine\Core\MathCore\MCore\MCore\main.cpp(77,1): warning C4172: возвращаемый адрес локальной переменной или временного : res
-  MCore.vcxproj -> C:\Users\Елена\Documents\GitHub\MEngine\Core\MathCore\MCore\x64\Debug\MCore.exe
+C:\Users\nout_student1\Documents\GitHub\MEngine\Core\MathCore\MCore\MCore\main.cpp(63): warning C4172: возвращение адреса локальной или временной переменной : res
+C:\Users\nout_student1\Documents\GitHub\MEngine\Core\MathCore\MCore\MCore\main.cpp(70): warning C4172: возвращение адреса локальной или временной переменной : res
+C:\Users\nout_student1\Documents\GitHub\MEngine\Core\MathCore\MCore\MCore\main.cpp(79): warning C4172: возвращение адреса локальной или временной переменной : res
+  MCore.vcxproj -> C:\Users\nout_student1\Documents\GitHub\MEngine\Core\MathCore\MCore\x64\Debug\MCore.exe
